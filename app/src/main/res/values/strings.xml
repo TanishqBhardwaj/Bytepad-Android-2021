@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bytepad</string>
+    <string name="et_searchSub">Enter subject name to search</string>
+    <string name="tv_download">Downloads</string>
+    <string name="tv_collection">Collection</string>
+    <string name="tv_scan">Scan</string>
 </resources>

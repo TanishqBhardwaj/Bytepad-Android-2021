@@ -1,8 +1,10 @@
-package in.silive.bytepad;
+package in.silive.bytepad.Ui.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import in.silive.bytepad.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -74,8 +74,6 @@ dependencies {
     implementation 'com.github.mohammadatif:Animatoo:master'
     //ListFilter
     implementation 'com.annimon:stream:1.1.2'
-    //TextView Shimmer
-    implementation 'com.romainpiel.shimmer:library:1.4.0@aar'
     //EasyPref
     implementation 'com.pixplicity.easyprefs:library:1.9.0'
     //Circular Image view

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Bytepad</string>
+    <string name="et_searchSub">Enter subject name to search</string>
+    <string name="tv_download">Downloads</string>
+    <string name="tv_collection">Collection</string>
+    <string name="tv_scan">Scan</string>
+    <string name="ic_splash_logo_desc">ic_splash_logo</string>
+    <string name="ic_home_logo_desc">ic_home_logo</string>
 </resources>
